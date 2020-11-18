@@ -20,7 +20,7 @@ to do just that. We'll remove knowledge of the store from our components by
 using a function similar to `mapStateToProps()`, which is called
 `mapDispatchToProps()`.
 
-## Identifying the Problem
+## Identifying the Problem 
 
 To begin, take a look at the starting code provided in `src/App.js`:
 
